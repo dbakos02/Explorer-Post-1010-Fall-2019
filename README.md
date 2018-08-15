@@ -18,3 +18,6 @@ Make a demobot | more utilities
 
 - [ ] Practice Tournament
 
+# Members(put your name here as the first contribution to this repo):
+Builders | Coders
+-------- | ------
